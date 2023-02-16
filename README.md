@@ -1,2 +1,2 @@
 # TareaSorpresa
-<img src = image.png/>
+image.png
